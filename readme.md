@@ -10,6 +10,7 @@
 <p align="center">
    <a href="#pins"><img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"></a>&nbsp;&nbsp;
    <a href="#pins"><img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>&nbsp;&nbsp;
+    <a href="#pins"><img alt="python" src="https://img.shields.io/badge/Java-3670A0?style=for-the-badge&logo=python&logoColor=white"></a>&nbsp;&nbsp;
 <p>
 <p align="center">
   <a href="#gh-dark-mode-only" style='cursor: default'><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Andrew1495&show_icons=true&count_private=true&theme=github_dark&disable_animations=true" /></a>
